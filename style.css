@@ -1,0 +1,168 @@
+body{
+    font-family: lato;
+    background-color: lightgray;
+}
+
+.boxes{
+    text-align: center;
+    display: inline-block;
+    margin: 1em;
+    padding: 2em;
+    border: 1px solid black;
+    border-radius: 7px;
+    display: block;
+    width: 20%;
+}
+
+a{
+    text-decoration: none;
+
+}
+
+a:hover{
+    font-weight: bold;
+    color: rgb(83, 157, 170);
+}
+
+.highlight{
+    font-weight: 700;
+    color: rgb(31, 158, 175);
+}
+
+#box1 {
+    position: relative;
+    background-color: rgb(172, 67, 81);
+}
+#box2{
+    position: relative;
+    top: 0px;
+    right: 0px;
+    
+    background-color: rgb(108, 202, 155);
+}
+#box3{
+    position: relative;
+    background-color: rgb(144, 141, 194);
+}
+#box4{
+    position: relative;
+    background-color: rgb(218, 215, 45);
+}
+
+.child{
+    position: absolute;;
+    height: 75px;
+    width: 75px;
+    right: -100px;
+    top: 0px;
+    background-color: rgb(88, 179, 182);
+}
+
+h1{
+    color: rgb(56, 56, 204);
+}
+
+.original {
+    color: rgb(63, 14, 109);
+}
+
+.additional{
+    color: rgb(201, 130, 38);
+}
+
+#one{
+    color: blue;
+}
+
+#two{
+    color: blueviolet;
+}
+
+#three{
+    color: brown;
+}
+
+#four{
+    color: burlywood;
+}
+
+#five{
+    color: chartreuse;
+}
+
+#six{
+    color: chocolate
+}
+
+#seven{
+    color: crimson
+}
+
+#eight{
+    color: rgb(50, 122, 205)
+}
+
+#nine{
+    color: violet
+}
+
+#ten{
+    color: tomato
+}
+
+#eleven{
+    color: teal
+}
+
+#tweleve{
+    color: springgreen
+}
+
+
+#thirteen{
+    color: chartreuse
+}
+
+#fourteen{
+    color: violet
+}
+
+#fifteen{
+    color: tomato
+}
+
+#sixteen{
+    color: teal
+}
+
+#seventeen{
+    color: tomato
+}
+
+#eighteen{
+    color: springgreen
+}
+
+#nineteen{
+    color: tomato
+}
+
+#twenty{
+    color: slateblue
+}
+
+ul{
+    color: rgb(90, 120, 150)
+}
+
+#wars{
+    color: rgb(52, 15, 87)
+}
+
+.list-box{
+    margin: 1em;
+    padding: 0em;
+    border: 2px solid black;
+    border-radius: 7px;
+    width: 20%;
+}
